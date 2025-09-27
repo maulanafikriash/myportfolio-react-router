@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://maulanafikriash.vercel.app/sitemap.xml
