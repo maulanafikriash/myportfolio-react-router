@@ -24,7 +24,7 @@ export function meta({}: Route.MetaArgs) {
     {
       property: "og:description",
       content:
-        "Hai! Selamat datang di Website Portofolio Maulana Fikri Ash-Shidiq. Yuk kenalan, lihat hasil karya di Portfolio, dan jangan ragu untuk reach out lewat Contact.",
+        "Hi! Welcome to the Portfolio Website of Maulana Fikri Ash-Shidiq. Get to know me, explore my works in the Portfolio section, and feel free to reach out through the Contact page.",
     },
     {
       property: "og:type",
