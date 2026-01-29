@@ -13,7 +13,7 @@ export default function Hero(): JSX.Element {
               </span>
             </h1>
             <h2 className="font-medium text-secondary text-lg mb-5 dark:text-white">
-              Front-End Web Developer
+              Web Developer
             </h2>
             <p className="text-secondary font-medium mb-10 lg:text-2xl dark:text-white">
               I am very enthusiastic about the world of technology and have a
