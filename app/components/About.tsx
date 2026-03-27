@@ -146,7 +146,7 @@ export default function About(): JSX.Element {
 
                   {/* View button */}
                   <a
-                    href="/assets/file/CV-maulanafikriash.pdf"
+                    href="/assets/file/CV-maulanafikriash-2026.pdf"
                     target="_blank"
                     rel="noopener noreferrer"
                     className="inline-flex items-center justify-center rounded-full border border-slate-200 bg-transparent px-5 py-2 text-sm font-medium text-dark dark:text-white hover:bg-slate-50 dark:hover:bg-slate-700 transition"
