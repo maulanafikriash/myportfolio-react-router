@@ -184,7 +184,7 @@ export default function About(): JSX.Element {
               </div>
 
               <div className="mt-3 text-xs text-slate-500">
-                <span>PDF • ~141 KB • Last updated: March 2026</span>
+                <span>PDF • ~142 KB • Last updated: March 2026</span>
               </div>
             </div>
           </div>
